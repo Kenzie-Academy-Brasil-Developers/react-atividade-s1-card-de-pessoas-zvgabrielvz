@@ -1,0 +1,9 @@
+.App-header {
+  background-color: aquamarine;
+
+  margin: auto;
+  width: 300px;
+  min-height: 200px;
+
+  border: solid 3px green;
+}
