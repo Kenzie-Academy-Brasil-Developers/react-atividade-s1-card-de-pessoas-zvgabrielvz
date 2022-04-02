@@ -2,8 +2,14 @@
   background-color: aquamarine;
 
   margin: auto;
-  width: 300px;
+  width: 400px;
   min-height: 200px;
 
   border: solid 3px green;
+}
+
+.container h3,
+p {
+  background-color: green;
+  border-radius: 10px;
 }
