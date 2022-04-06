@@ -24,7 +24,7 @@ function App() {
     <div className="App">
       <div className="App-header">
         {infos.map((info) => (
-          <Developer info={info} />
+          <Developer key={info.index} info={info} />
         ))}
       </div>
     </div>
